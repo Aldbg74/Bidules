@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<!--Website pour notre petit tyler-->
+<html>
+    <head>
+<title>Tyler le TIGRE JOUEUR</title>
+
+    </head>
+
+    <table>
+        <thead>
+            <tr>
+                <th colspan="6"></th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>/</td>
+                <td> <a href="Pageacceuil.html">Acceuil</a></td>
+                <td>/</td>
+                <td> <a href="lescopains.html">Les Copains</a></td>
+                <td>/</td>
+                <td>  <a href="mavie.html">La vie de Tyler</a></td>
+                <td>/</td>
+                <td><a href="Les adventures de tyler.html">Les Adventures de Tyler</a></td>
+                <td>/</td>
+                <td><a href="detective.html">Detective Tyler</a></td>
+                <td>/</td>
+                <td><a href="mentionslegales.html">Mentions Legales</a></td>
+                <td>/</td>
+            </tr>  
+        </tbody>
+    </table>
+            
+            
+<body>
+    <h1>Tyler le Tigre joueur</h1>
+    <img src="https://s1.1zoom.me/big3/597/Tigers_Glance_Snout_Tongue_Yawn_572232_4928x3264.jpg" width="600" height="400">
+    <P>C'est moi tyler, un petit tigre joueur qui adore s'ammuser avec ces amis ! </P>
+
+<h2>D'ou est ce que je viens?</h2>
+    <p>Ma super maman m'as achéte sur un <a href="https://www.amazon.fr/" target="_blank" >un super magasin en ligne </a>, car elle me trouvait trop chou.</p>
+    <p>J'ai été mit dans un carton, et expédié jusqu'a ma nouvelle famille, dans un <a href="https://fr.wikipedia.org/wiki/Taninges" target="_blank">trou paumé au milieu de nul part</a>
+        
+</body>
+</html>
